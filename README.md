@@ -1,6 +1,6 @@
 # socket.io
 
-[![GoDoc](http://godoc.org/github.com/goguardian/go-socket.io?status.svg)](http://godoc.org/github.com/goguardian/go-socket.io) [![Build Status](https://travis-ci.org/googollee/go-socket.io.svg)](https://travis-ci.org/googollee/go-socket.io)
+[![GoDoc](http://godoc.org/github.com/goguardian/go-socket.io?status.svg)](http://godoc.org/github.com/goguardian/go-socket.io) [![Build Status](https://travis-ci.org/goguardian/go-socket.io.svg)](https://travis-ci.org/goguardian/go-socket.io)
 
 go-socket.io is an implementation of [socket.io](http://socket.io) in golang, which is a realtime application framework.
 
